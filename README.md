@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">A PASSIONATED FRONTEND DEVELOPER!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrauf1234&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrauf1234" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrauf1234&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmedrauf1234" /> </p>
 
 - 📫 How to reach me **Ahmedrauf261@gmail.com**
 
